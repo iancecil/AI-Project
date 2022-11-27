@@ -1,0 +1,117 @@
+{
+  "message": "File successfully uploaded",
+  "status": "success",
+
+  "data": [
+    {
+      "Company": "PF Changs",
+      "ExtractDate": "2022-01-25",
+      "JobID": "0ad88d6bcb09e3c1",
+      "JobTitle": "Sr. International Operations Manager",
+      "JobType": "Operations Manager",
+      "JobURL": "https://www.indeed.com/rc/clk?jk=0ad88d6bcb09e3c1&fccid=ab647a400a530239&vjs=3",
+      "Likelihood": 0.11092883964261588,
+      "PostDate": "Posted17 days ago",
+      "Summary": "Assists with on-site operations analysis. Provides operation and service logistics to execute all pre-opening Marketing events."
+    },
+    {
+      "Company": "Salesforce",
+      "ExtractDate": "2022-01-25",
+      "JobID": "c70b75a9c6abbb5d",
+      "JobTitle": "Senior Research Operations Program Manager - Slack",
+      "JobType": "Operations Manager",
+      "JobURL": "https://www.indeed.com/rc/clk?jk=c70b75a9c6abbb5d&fccid=4027cfd917e1ee29&vjs=3",
+      "Likelihood": 0.09491394619777557,
+      "PostDate": "Posted14 days ago",
+      "Summary": "3+ years experience in research operations. Research & Analytics is looking for an experienced Senior Research Operations Program Manager."
+    },
+    {
+      "Company": "Spruce",
+      "ExtractDate": "2022-01-25",
+      "JobID": "7030de9153692047",
+      "JobTitle": "Closing Operations Manager (Remote)",
+      "JobType": "Operations Manager",
+      "JobURL": "https://www.indeed.com/rc/clk?jk=7030de9153692047&fccid=c48e788a5f55ea2d&vjs=3",
+      "Likelihood": 0.09233760175523958,
+      "PostDate": "Posted30+ days ago",
+      "Summary": "As a Spruce Closing Operations Manager, you will be responsible for coaching and directing a team of Associates working tasks, emails, and phone calls,…"
+    },
+    {
+      "Company": "Red Hat Software",
+      "ExtractDate": "2022-01-25",
+      "JobID": "d6d6373dacdb9120",
+      "JobTitle": "Data Platforms Operations Manager",
+      "JobType": "Operations Manager",
+      "JobURL": "https://www.indeed.com/rc/clk?jk=d6d6373dacdb9120&fccid=e24a60f01d1882d1&vjs=3",
+      "Likelihood": 0.09003314683893442,
+      "PostDate": "Posted30+ days ago",
+      "Summary": "Lead daily operations for all data platforms. Establish and track SLAs for all data operations activities. 8+ years of experience working in data or technical…"
+    },
+    {
+      "Company": "International Data Group, Inc.",
+      "ExtractDate": "2022-01-25",
+      "JobID": "3b169d1e74130ef5",
+      "JobTitle": "Research Manager, Infrastructure and Operations",
+      "JobType": "Operations Manager",
+      "JobURL": "https://www.indeed.com/rc/clk?jk=3b169d1e74130ef5&fccid=209a3e1cb8a469f5&vjs=3",
+      "Likelihood": 0.08994629746532545,
+      "PostDate": "Posted30+ days ago",
+      "Summary": "IDC is the most respected global technology market research firm. Our people, data, and analytics create global technology insights that accelerate customer…"
+    },
+    {
+      "Company": "International Data Group, Inc.",
+      "ExtractDate": "2022-01-25",
+      "JobID": "3b169d1e74130ef5",
+      "JobTitle": "Research Manager, Infrastructure and Operations",
+      "JobType": "Operations Manager",
+      "JobURL": "https://www.indeed.com/rc/clk?jk=3b169d1e74130ef5&fccid=209a3e1cb8a469f5&vjs=3",
+      "Likelihood": 0.07992572686753492,
+      "PostDate": "Posted30+ days ago",
+      "Summary": "IDC is the most respected global technology market research firm. Our people, data, and analytics create global technology insights that accelerate customer…"
+    },
+    {
+      "Company": "HealthVerity",
+      "ExtractDate": "2022-01-25",
+      "JobID": "8c7e96c76a743c30",
+      "JobTitle": "Vice President, Data Operations",
+      "JobType": "Operations Manager",
+      "JobURL": "https://www.indeed.com/rc/clk?jk=8c7e96c76a743c30&fccid=6b1be984647e492b&vjs=3",
+      "Likelihood": 0.08601222875335454,
+      "PostDate": "Posted6 days ago",
+      "Summary": "Experience in building and managing a top-performing data operations team. Manage, develop and lead our data acquisition and operations teams."
+    },
+    {
+      "Company": "Delaware North",
+      "ExtractDate": "2022-01-25",
+      "JobID": "691c3afe417da826",
+      "JobTitle": "Vice President of Food and Beverage Operations",
+      "JobType": "Operations Manager",
+      "JobURL": "https://www.indeed.com/rc/clk?jk=691c3afe417da826&fccid=fd2507195d2393e1&vjs=3",
+      "Likelihood": 0.07282684051270513,
+      "PostDate": "Posted10 days ago",
+      "Summary": "Build effective relationships with culinary schools, internal recruiters, managers, and students to create sources of talent."
+    },
+    {
+      "Company": "Ferguson",
+      "ExtractDate": "2022-01-25",
+      "JobID": "618dd1f2f46122c0",
+      "JobTitle": "Manager, Data Operations",
+      "JobType": "Operations Manager",
+      "JobURL": "https://www.indeed.com/rc/clk?jk=618dd1f2f46122c0&fccid=033b673c9c5dc788&vjs=3",
+      "Likelihood": 0.07224326983767691,
+      "PostDate": "Posted7 days ago",
+      "Summary": "We are seeking a Manager, Data Operations who partners multi-functionally across Ferguson to support the domain of customer & location in the enterprise data…"
+    },
+    {
+      "Company": "Opendoor",
+      "ExtractDate": "2022-01-25",
+      "JobID": "7df849885787e974",
+      "JobTitle": "Research Operations Manager",
+      "JobType": "Operations Manager",
+      "JobURL": "https://www.indeed.com/rc/clk?jk=7df849885787e974&fccid=7af474979a2ce5fb&vjs=3",
+      "Likelihood": 0.07162901122069545,
+      "PostDate": "Posted2 days ago",
+      "Summary": "You have 2+ years working on an in-house research operations team. The ideal person for this role has experience working on an in-house research operations team…"
+    }
+  ]
+}

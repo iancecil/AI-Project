@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/projects/React_Projects/react-state-managing/03_custom_hook_local_state_add_to_cart/.idea/03_custom_hook_local_state_add_to_cart.iml" filepath="$USER_HOME$/Desktop/projects/React_Projects/react-state-managing/03_custom_hook_local_state_add_to_cart/.idea/03_custom_hook_local_state_add_to_cart.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/projects/React_Projects/streams/.idea/streams.iml" filepath="$USER_HOME$/Desktop/projects/React_Projects/streams/.idea/streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ui.iml" filepath="$PROJECT_DIR$/.idea/ui.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,117 @@
+{
+    "message": "File successfully uploaded",
+    "status": "success",
+
+    "data": [
+    {
+        "Company": "Ygrene",
+        "ExtractDate": "2022-01-25",
+        "JobID": "b20a423499d9aabe",
+        "JobTitle": "Treasury Operations Manager",
+        "JobType": "Operations Manager",
+        "JobURL": "https://www.indeed.com/rc/clk?jk=b20a423499d9aabe&fccid=c9342a464beabc03&vjs=3",
+        "Likelihood": 0.12719800317373686,
+        "PostDate": "Posted30+ days ago",
+        "Summary": "Manages bank accounts and operations expenses with relationship banks including setting up new accounts, monitoring earnings on case, and ongoing relationship…"
+    },
+    {
+        "Company": "International Data Group, Inc.",
+        "ExtractDate": "2022-01-25",
+        "JobID": "3b169d1e74130ef5",
+        "JobTitle": "Research Manager, Infrastructure and Operations",
+        "JobType": "Operations Manager",
+        "JobURL": "https://www.indeed.com/rc/clk?jk=3b169d1e74130ef5&fccid=209a3e1cb8a469f5&vjs=3",
+        "Likelihood": 0.09297776959122055,
+        "PostDate": "Posted30+ days ago",
+        "Summary": "The Research Manager of Infrastructure and Operations will be a key member of IDC's world class Infrastructure and Operations (I&O) team, focusing on writing of…"
+    },
+    {
+        "Company": "Delaware North",
+        "ExtractDate": "2022-01-25",
+        "JobID": "691c3afe417da826",
+        "JobTitle": "Vice President of Food and Beverage Operations",
+        "JobType": "Operations Manager",
+        "JobURL": "https://www.indeed.com/rc/clk?jk=691c3afe417da826&fccid=fd2507195d2393e1&vjs=3",
+        "Likelihood": 0.09280776984270032,
+        "PostDate": "Posted10 days ago",
+        "Summary": "Build effective relationships with culinary schools, internal recruiters, managers, and students to create sources of talent."
+    },
+    {
+        "Company": "Upstart Network, Inc.",
+        "ExtractDate": "2022-01-25",
+        "JobID": "977cb7d9e94f7853",
+        "JobTitle": "Growth Operations Manager, Direct Mail",
+        "JobType": "Operations Manager",
+        "JobURL": "https://www.indeed.com/rc/clk?jk=977cb7d9e94f7853&fccid=fd81e6e5b3b5441b&vjs=3",
+        "Likelihood": 0.09109012377313729,
+        "PostDate": "Posted3 days ago",
+        "Summary": "About Upstart Upstart is a leading AI lending platform partnering with banks and credit unions to expand access to affordable credit. As we transitioned to…"
+    },
+    {
+        "Company": "U.S. Bank",
+        "ExtractDate": "2022-01-25",
+        "JobID": "fa5f5d0da2d24423",
+        "JobTitle": "Operations Manager, Disputes and Chargebacks - REMOTE",
+        "JobType": "Operations Manager",
+        "JobURL": "https://www.indeed.com/rc/clk?jk=fa5f5d0da2d24423&fccid=ae5bfc395c530fbc&vjs=3",
+        "Likelihood": 0.08401630926027324,
+        "PostDate": "Posted30+ days ago",
+        "Summary": "Thorough knowledge of banking operations and human resources. Eight to ten years of operations-related experience."
+    },
+    {
+        "Company": "Cross River",
+        "ExtractDate": "2022-01-25",
+        "JobID": "ecd67a8e606fb72b",
+        "JobTitle": "Sales Operations Manager",
+        "JobType": "Operations Manager",
+        "JobURL": "https://www.indeed.com/rc/clk?jk=ecd67a8e606fb72b&fccid=59ca36d7082a148a&vjs=3",
+        "Likelihood": 0.08210411161634373,
+        "PostDate": "Posted30+ days ago",
+        "Summary": "Reporting to the Director of Product Commercialization, Fintech Banking, the Sales Operations Manager will effectively build training programs, new selling…"
+    },
+    {
+        "Company": "AmerisourceBergen",
+        "ExtractDate": "2022-01-25",
+        "JobID": "430a455df4afc5f6",
+        "JobTitle": "Manager, Clinical Research Operations (Remote)",
+        "JobType": "Operations Manager",
+        "JobURL": "https://www.indeed.com/rc/clk?jk=430a455df4afc5f6&fccid=a6362e26eb1427c7&vjs=3",
+        "Likelihood": 0.07535501398452477,
+        "PostDate": "Posted5 days ago",
+        "Summary": "As of August 24, 2021, AmerisourceBergen requires all U.S. team members to be fully vaccinated and show proof of completed vaccine status at time of hire."
+    },
+    {
+        "Company": "Salesforce",
+        "ExtractDate": "2022-01-25",
+        "JobID": "c70b75a9c6abbb5d",
+        "JobTitle": "Senior Research Operations Program Manager - Slack",
+        "JobType": "Operations Manager",
+        "JobURL": "https://www.indeed.com/rc/clk?jk=c70b75a9c6abbb5d&fccid=4027cfd917e1ee29&vjs=3",
+        "Likelihood": 0.07266938838233915,
+        "PostDate": "Posted14 days ago",
+        "Summary": "3+ years experience in research operations. Research & Analytics is looking for an experienced Senior Research Operations Program Manager."
+    },
+    {
+        "Company": "Amgen",
+        "ExtractDate": "2022-01-25",
+        "JobID": "8b62b5c4b17d48c4",
+        "JobTitle": "Sales Operations Senior Manager, Incentive Compensation Lead...",
+        "JobType": "Operations Manager",
+        "JobURL": "https://www.indeed.com/rc/clk?jk=8b62b5c4b17d48c4&fccid=ec34037a9c92d805&vjs=3",
+        "Likelihood": 0.07019487537374203,
+        "PostDate": "Posted10 days ago",
+        "Summary": "Doctorate degree and 2 years of finance, sales & marketing operations and/or data analytics experience. High school diploma / GED and 12 years of finance, sales…"
+    },
+    {
+        "Company": "TD Bank",
+        "ExtractDate": "2022-01-25",
+        "JobID": "1e2fee59877f68b9",
+        "JobTitle": "Mgr Fraud Operations (US)",
+        "JobType": "Operations Manager",
+        "JobURL": "https://www.indeed.com/rc/clk?jk=1e2fee59877f68b9&fccid=d7114f1cac8d0711&vjs=3",
+        "Likelihood": 0.0651039060837492,
+        "PostDate": "Posted12 days ago",
+        "Summary": "The Toronto-Dominion Bank trades on the New York and Toronto stock exchanges under the ticker symbol \"TD\". Remote position, must live with 1.5 hours from either…"
+    }
+]
+}
